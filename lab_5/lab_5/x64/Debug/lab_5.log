@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\vinak\OneDrive\Документы\labs\lab_5\lab_5\task_1.h(1,13): warning C4081: expected 'newline'; found ';'
+  lab_5.vcxproj -> C:\Users\vinak\OneDrive\Документы\labs\lab_5\x64\Debug\lab_5.exe
